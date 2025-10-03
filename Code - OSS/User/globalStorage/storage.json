@@ -1,0 +1,128 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "ed1df3034fe4b225fddb56c22c37054082484bf831bdb4118d51c189d20dad4d",
+    "telemetry.devDeviceId": "f6909a31-9f3d-40d5-b635-73213b75ef62",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/nekotama/.config/waybar"
+            },
+            {
+                "folderUri": "file:///home/nekotama/.config/hypr"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/nekotama/.config/waybar": "__default__profile__",
+            "file:///home/nekotama/.config/wofi": "__default__profile__",
+            "file:///home/nekotama/.config/hypr": "__default__profile__",
+            "file:///home/nekotama/.ssh": "__default__profile__",
+            "file:///home/nekotama/.config/swaync": "__default__profile__",
+            "file:///home/nekotama/.config/cava": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/nekotama/.config/waybar",
+            "backupPath": "/home/nekotama/.config/Code - OSS/Backups/a4b14e5be155000fad1e82e7f51c144c",
+            "uiState": {
+                "mode": 1,
+                "x": 12,
+                "y": 65,
+                "width": 1646,
+                "height": 862
+            }
+        },
+        "openedWindows": [
+            {
+                "folder": "file:///home/nekotama/.config/waybar",
+                "backupPath": "/home/nekotama/.config/Code - OSS/Backups/a4b14e5be155000fad1e82e7f51c144c",
+                "uiState": {
+                    "mode": 1,
+                    "x": 12,
+                    "y": 65,
+                    "width": 1646,
+                    "height": 862
+                }
+            },
+            {
+                "folder": "file:///home/nekotama/.config/hypr",
+                "backupPath": "/home/nekotama/.config/Code - OSS/Backups/ccaf138773495fb96ab4e68a05a919d9",
+                "uiState": {
+                    "mode": 1,
+                    "x": 843,
+                    "y": 65,
+                    "width": 815,
+                    "height": 862
+                }
+            }
+        ]
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "f0f27985a08a14a62da2e88184af3a35": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "3dc5a3754dff8302dd2003fb3330dc19": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "29e04f0d69dbd08ed6f2662dd972b0b2": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "e9b0c0c7b953ec06c53db318d80e27ef": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "88b3d64bdab1fe222287f6356839bbc6": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "4dbbaceef9b885aba52040f7451a6c78": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

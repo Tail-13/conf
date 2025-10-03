@@ -1,0 +1,91 @@
+{
+  // Empty Waybar configuration
+  // "layer" can be set to "top", "bottom", "overlay", etc.
+  // "position" can be "top", "bottom", "left", or "right"
+  "layer": "top",
+  "position": "top",
+  // Modules to display on each side of the bar
+  // You can leave these empty
+  "modules-left": [
+    "hyprland/workspaces",
+    "cava",
+    "pulseaudio"
+  ],
+  "modules-center": [
+    "clock"
+  ],
+  "modules-right": [
+    "battery",
+    "network",
+    "tray",
+    "custom/power"
+  ],
+  // Optional styling (can also be done in style.css)
+  "height": 25,
+  "margin-top": 10,
+  "margin-bottom": 5,
+  "margin-left": 10,
+  "margin-right": 10,
+    // "spacing": 2,
+
+  // Example of how to add a module (commented out)
+  "clock": {
+    "format": "  {:%H : %M}",
+    "format-alt": " {:%a, %d %b %Y | %H : %M}"
+  },
+  "hyprland/workspaces": {
+    "format": "{icon}",
+    "format-icons": {
+      "active": "",
+      "default": ""
+    },
+    "persistent-workspaces": {
+      "*": 5
+    }
+  },
+  "battery": {
+    "bat": "BAT0",
+    "interval": 5,
+    "format": "{icon}",
+    "tooltip": true,
+    "format-icons": [
+      "󱊡",
+      "󱊢",
+      "󱊣"
+    ],
+    "format-charging": "{icon}󱐋",
+    "states": {
+      "good": 0,
+      "critical": 15,
+      "warning": 30
+    }
+  },
+  "network": {
+    "format": "{icon}",
+    "format-icons": [
+      "󰤟",
+      "󰤢",
+      "󰤥",
+      "󰤨"
+    ],
+    "on-click": "~/.config/waybar/script/network-menu.sh",
+  },
+  "custom/power": {
+    "format": "󰐥 ",
+    "tooltip": false,
+    "menu": "on-click",
+    "menu-file": "~/.config/waybar/script/power-menu.xml",
+    "menu-actions": {
+      "shutdown": "shutdown now",
+      "reboot": "reboot",
+      "suspend": "systemctl suspend",
+      "hibernate": "systemctl hibernate"
+    }
+  },
+  "tray" : {
+    "spacing": 10,
+    "icons": {
+      "blueman": "bluetooth"
+    }
+  }
+}

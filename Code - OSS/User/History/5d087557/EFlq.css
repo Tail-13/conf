@@ -1,0 +1,42 @@
+* {
+    font-family:
+        "0xProto Nerd Font",
+        sans-serif;
+}
+
+#waybar {
+    background: white;
+    border-radius: .75rem;
+}
+
+.modules-right {
+    margin-right: 20;
+}
+
+.modules-left {
+    margin-left: 20;
+}
+
+#workspaces {
+    font-size: 1.2rem;
+}
+
+#clock {
+    font-size: 1.1rem;
+    padding: 0;
+}
+
+#battery, #network, #custom-power {
+    font-size: 1.2rem;
+    padding-right: 20;
+    font-weight: 100;
+}
+
+menu {
+	border-radius: 15px;
+	background: #161320;
+	color: #B5E8E0;
+}
+menuitem {
+	border-radius: 15px;
+}

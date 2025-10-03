@@ -1,0 +1,10 @@
+2025/09/16-05:25:31.880 2a1e Creating DB /home/nekotama/.config/Postman/Partitions/8d9a1e5c-4241-49dc-b7e8-036a07174b34/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2025/09/16-05:25:31.890 2a1e Reusing MANIFEST /home/nekotama/.config/Postman/Partitions/8d9a1e5c-4241-49dc-b7e8-036a07174b34/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2025/09/16-05:25:31.902 2a1d Level-0 table #5: started
+2025/09/16-05:25:31.905 2a1d Level-0 table #5: 494 bytes OK
+2025/09/16-05:25:31.909 2a1d Delete type=0 #3
+2025/09/16-05:25:31.910 2a1d Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/16-05:25:31.938 2a35 Level-0 table #7: started
+2025/09/16-05:25:31.941 2a35 Level-0 table #7: 478 bytes OK
+2025/09/16-05:25:31.945 2a35 Delete type=0 #4
+2025/09/16-05:25:31.945 2a1d Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

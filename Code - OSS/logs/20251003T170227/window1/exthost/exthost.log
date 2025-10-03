@@ -1,0 +1,55 @@
+2025-10-03 17:02:30.427 [info] Extension host with pid 4774 started
+2025-10-03 17:02:30.427 [info] Skipping acquiring lock for /home/nekotama/.config/Code - OSS/User/workspaceStorage/88b3d64bdab1fe222287f6356839bbc6.
+2025-10-03 17:02:30.667 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-03 17:02:30.702 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-10-03 17:02:30.714 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-10-03 17:02:30.738 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-10-03 17:02:30.914 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-10-03 17:02:31.607 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-03 17:02:31.642 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-03 17:02:31.774 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-03 17:02:31.871 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-03 17:02:31.893 [info] Eager extensions activated
+2025-10-03 17:02:31.895 [error] Activating extension vscode.debug-auto-launch failed due to an error:
+2025-10-03 17:02:31.895 [error] Canceled: Canceled
+	at new CR (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:115607)
+	at j4.U (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:120217)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:117711)
+	at aJ.fb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:12273)
+	at Object.actualActivateExtension (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:9514)
+	at _b.n (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:13395)
+	at _b.m (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:13356)
+	at _b.l (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:12812)
+	at new _b (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:12739)
+	at Wb.k (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:12301)
+	at Wb.j (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:12256)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:11227
+	at Array.map (<anonymous>)
+	at Wb.h (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:11215)
+	at Wb.activateById (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:11127)
+	at aJ.bb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:10740)
+	at aJ.lb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:15551)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:16195
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-03 17:02:31.895 [error] Activating extension vscode.merge-conflict failed due to an error:
+2025-10-03 17:02:31.895 [error] Canceled: Canceled
+	at new CR (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:115607)
+	at j4.U (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:120217)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:117711)
+	at aJ.fb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:12273)
+	at Object.actualActivateExtension (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:9514)
+	at _b.n (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:13395)
+	at _b.m (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:13356)
+	at _b.l (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:12812)
+	at new _b (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:12739)
+	at Wb.k (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:12301)
+	at Wb.j (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:12256)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:11227
+	at Array.map (<anonymous>)
+	at Wb.h (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:11215)
+	at Wb.activateById (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:11127)
+	at aJ.bb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:10740)
+	at aJ.lb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:15551)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:16195
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-03 17:02:31.908 [info] Extension host with pid 4774 exiting with code 0

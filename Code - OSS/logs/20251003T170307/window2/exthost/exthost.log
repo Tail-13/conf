@@ -1,0 +1,9 @@
+2025-10-03 17:13:49.719 [info] Extension host with pid 168362 started
+2025-10-03 17:13:49.719 [info] Skipping acquiring lock for /home/nekotama/.config/Code - OSS/User/workspaceStorage/29e04f0d69dbd08ed6f2662dd972b0b2.
+2025-10-03 17:13:50.107 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-03 17:13:50.264 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-03 17:13:50.285 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-03 17:13:50.397 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-03 17:13:50.611 [info] Eager extensions activated
+2025-10-03 17:13:50.646 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-03 17:13:50.657 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

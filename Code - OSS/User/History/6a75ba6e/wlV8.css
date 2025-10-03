@@ -1,0 +1,10 @@
+window {
+    border-radius: 15px;
+    background: rgba(50, 50, 50, .7);
+    backdrop-filter: blur(10px);
+}
+
+listView {
+    spacing: 5px;
+    padding: 10px;
+}

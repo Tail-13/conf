@@ -1,0 +1,75 @@
+* {
+  font-family: "JetBrainsMono Nerd Font", monospace;
+  font-size: 14px;
+  background: transparent;
+  color: #cdd6f4;
+}
+
+/* Notification Window */
+window.notifications {
+  background-color: #1e1e2e;
+  border-radius: 12px;
+  border: 2px solid #89b4fa;
+  padding: 10px;
+}
+
+/* Individual Notification */
+.notification {
+  border-radius: 8px;
+  background-color: #313244;
+  padding: 10px;
+  margin: 6px;
+  border: 1px solid #89b4fa;
+}
+
+/* Title Widget */
+.title {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 10px;
+  color: #89b4fa;
+}
+
+/* DND Toggle */
+.dnd {
+  margin: 10px;
+  color: #f38ba8;
+}
+
+/* Buttons (e.g. media controls, clear all) */
+.notification .actions button,
+button {
+  background-color: #89b4fa;
+  color: #1e1e2e;
+  border: none;
+  border-radius: 6px;
+  padding: 6px 12px;
+  margin: 4px 6px 0 0;
+  font-weight: bold;
+}
+
+/* Hover effect */
+.notification .actions button:hover {
+  background-color: #b4befe;
+  color: #1e1e2e;
+}
+
+/* Urgency colors */
+.notification.low {
+  border-left: 4px solid #a6e3a1;
+}
+.notification.normal {
+  border-left: 4px solid #89b4fa;
+}
+.notification.critical {
+  border-left: 4px solid #f38ba8;
+}
+
+/* Scrollbar styling */
+scrollbar {
+  background: transparent;
+}
+scrollbar slider {
+  background-color: #89b4fa;
+  border-radius: 8px;
+}

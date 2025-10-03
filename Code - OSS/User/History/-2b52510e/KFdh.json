@@ -1,0 +1,31 @@
+{
+  "notification-actions": true,
+  "position": "top-right",
+  "layer": "overlay",
+  "control-center-margin-top": 20,
+  "control-center-margin-bottom": 20,
+  "control-center-margin-right": 20,
+  "control-center-margin-left": 0,
+  "control-center-width": 400,
+  "control-center-height": 600,
+  "notification-words": {
+    "now": "Just now",
+    "minutes": "min ago",
+    "hours": "h ago",
+    "days": "d ago"
+  },
+  "widgets": [
+    "title",
+    "dnd",
+    "notifications"
+  ],
+  "widget-configs": {
+    "title": {
+      "text": "Notifications",
+      "clear-all-button": true
+    },
+    "dnd": {
+      "text": "Do Not Disturb"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+2025-09-27 08:18:56.117 [error] Failed to set sticky bit on /tmp/nekotama-code-oss-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/nekotama-code-oss-zsh'

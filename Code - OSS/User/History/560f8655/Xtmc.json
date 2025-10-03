@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "'0xProto Nerd Font Mono', 'monospace', monospace",
+    "explorer.confirmDragAndDrop": false
+}

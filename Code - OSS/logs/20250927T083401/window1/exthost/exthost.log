@@ -1,0 +1,29 @@
+2025-09-27 08:34:03.960 [info] Extension host with pid 1107 started
+2025-09-27 08:34:03.960 [info] Skipping acquiring lock for /home/nekotama/.config/Code - OSS/User/workspaceStorage/88b3d64bdab1fe222287f6356839bbc6.
+2025-09-27 08:34:03.983 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-09-27 08:34:04.006 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-09-27 08:34:04.088 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-09-27 08:34:04.230 [info] Eager extensions activated
+2025-09-27 08:34:04.236 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-09-27 08:34:04.239 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-09-27 08:34:15.422 [info] Extension host terminating: renderer closed the MessagePort
+2025-09-27 08:34:15.428 [info] Extension host with pid 1107 exiting with code 0
+2025-09-27 08:34:16.778 [info] Extension host with pid 1148 started
+2025-09-27 08:34:16.778 [info] Skipping acquiring lock for /home/nekotama/.config/Code - OSS/User/workspaceStorage/29e04f0d69dbd08ed6f2662dd972b0b2.
+2025-09-27 08:34:16.985 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-09-27 08:34:17.121 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-09-27 08:34:17.127 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-09-27 08:34:17.210 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-09-27 08:34:17.404 [info] Eager extensions activated
+2025-09-27 08:34:17.413 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-09-27 08:34:17.418 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-09-27 08:34:31.127 [info] Extension host terminating: renderer closed the MessagePort
+2025-09-27 08:34:31.133 [info] Extension host with pid 1148 exiting with code 0
+2025-09-27 08:34:32.436 [info] Extension host with pid 1213 started
+2025-09-27 08:34:32.436 [info] Skipping acquiring lock for /home/nekotama/.config/Code - OSS/User/workspaceStorage/88b3d64bdab1fe222287f6356839bbc6.
+2025-09-27 08:34:32.451 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-09-27 08:34:32.458 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-09-27 08:34:32.517 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-09-27 08:34:32.627 [info] Eager extensions activated
+2025-09-27 08:34:32.628 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-09-27 08:34:32.631 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

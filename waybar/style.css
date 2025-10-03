@@ -1,0 +1,73 @@
+* {
+    font-family:
+        "0xProto Nerd Font",
+        sans-serif;
+}
+
+#waybar {
+    background: white;
+    border-radius: .75rem;
+}
+
+.modules-left, .modules-right {
+    margin-left: 5;
+    margin-right: 5;
+}
+
+/* module children */
+.modules-left .module {
+    /* background-color: gray; */
+    border-radius: 10;
+    margin: 2;
+}
+
+
+
+/* module left */
+#workspaces {
+    font-size: 1.2rem;
+}
+
+/* module center */
+#clock {
+    font-size: 1.2rem;
+    padding: 0;
+}
+
+/* module right */
+.modules-right .module {
+    margin: 2;
+    background-color: cyan;
+    font-size: 1.2rem;
+    padding-left: 10;
+    padding-right: 10;
+    font-weight: 100;
+    min-width: 1rem;
+}
+
+#cava {
+    margin: 0 10px;
+    color: #7fdbff;
+    font-weight: bold;
+}
+
+#cava.silent {
+    opacity: 0.3;
+}
+
+
+/* menu styling */
+menu {
+	border-radius: 15px;
+	background: #161320;
+	color: #B5E8E0;
+}
+menuitem {
+	border-radius: 15px;
+}
+
+#tray {
+  padding: 0 8px;
+  border-radius: 6px;
+  background-color: rgba(30, 30, 30, 0.7);
+}

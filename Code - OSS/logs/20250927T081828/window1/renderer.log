@@ -1,0 +1,3 @@
+2025-09-27 08:18:29.512 [info] Started local extension host with pid 2735.
+2025-09-27 08:18:29.714 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-09-27 08:18:32.255 [info] [perf] Render performance baseline is 36ms
